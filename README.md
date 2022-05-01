@@ -15,9 +15,9 @@ There are three experiments demonstrated in each notebook files.
 Extract aif360 folder and paste into this repo.
 
 
-## Pre-trained models:
-* MNIST-USPS : 
-* CelebA : 
+## To download Pre-trained models:
+* MNIST-USPS : https://purdue0-my.sharepoint.com/:u:/g/personal/jang141_purdue_edu/ERV3B8F_WhBLpvctigizEgIB_uLNTM1EO2z91Wez_MaG3g?e=d4JIGE
+* CelebA : https://purdue0-my.sharepoint.com/:u:/g/personal/jang141_purdue_edu/EffRnHfarkdAktBc1acUJMYB0K86Ti2-Fa8cpO8ujjLLRA?e=IqoOVR
 
 ## Prerequisites
 * Python 3.6
